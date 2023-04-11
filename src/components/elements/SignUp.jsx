@@ -65,7 +65,7 @@ const SignUp = () => {
                       <TextField
                         id="standard-lastName-input"
                         label="Last Name"
-                        type="lastName"
+                        type="text"
                         autoComplete="current-lastName"
                         variant="standard"
                         className='w-100 custom-textfield mt-3'
@@ -75,7 +75,7 @@ const SignUp = () => {
                       <TextField
                         id="standard-firstName-input"
                         label="First Name"
-                        type="firstName"
+                        type="text"
                         autoComplete="current-firstName"
                         variant="standard"
                         className='w-100 custom-textfield mt-3'
